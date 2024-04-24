@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.png</file>
+        <file>background.jpg</file>
+        <file>fron3.png</file>
+        <file>front1.png</file>
+        <file>front2.png</file>
+        <file>front4.png</file>
+        <file>D:/Media/playing-poker-cards-with-skulls-set/player.png</file>
+        <file>player.png</file>
+    </qresource>
+</RCC>
